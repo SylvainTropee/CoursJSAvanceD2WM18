@@ -2,12 +2,11 @@
 
 function init(){
 
-    
+
     const cities = ["Rennes", "Nantes", "Quimper", "Niort", "Brest"];
 
     //récupérer l'élement select
     const select = document.getElementById("cities");
-    console.log(select)
 
     //lui associer la liste des villes en ajoutant des options
 
